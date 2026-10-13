@@ -1,0 +1,6 @@
+codigo,dia,mes,anio,titulo
+101,jueves,marzo,2019,Inventario de cierre
+102,jueves,abril,2019,Cierre a proveedores
+103,Lunes,marzo,2019,Ajustes faltantes
+104,Sabado,Mayo,2019,Debitos de Consignaciones
+105,Domingo,Septiembre,2020,Ajuste fisico de existencias
